@@ -61,7 +61,7 @@ The main logic can be found in `./src/FbSigner.ts` which implements the `Signer`
    - Blast API - https://blastapi.io/faucets/starknet-sepolia-eth
    - Starknet Foundation - https://starknet-faucet.vercel.app/
 
-     6.3. Now with the account funded, run the script again. The account should be deployed onchain.
+   6.3. Now with the account funded, run the script again. The account should be deployed onchain.
 
 7. Try to make a simple transfer from the account by running `ts-node ./src/fb-wallet.ts transfer 0x01 0.0000001`
 
